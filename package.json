@@ -18,7 +18,7 @@
 	"author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/slothS:\Development\workspaces\slothsoft\Slack\slack-shmotbotsoft/slack-shmotbot/issues"
+		"url": "https://github.com/slothsoft/slack-shmotbot/issues"
 	},
 	"homepage": "https://github.com/slothsoft/slack-shmotbot#readme",
 	"engines": {
