@@ -1,0 +1,35 @@
+{
+	"name": "slack-shmotbot",
+	"version": "1.0.0",
+	"description": "My first attempt at a Slack bot. It uses the shm-reduplication to mock your last word.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/slothsoft/slack-shmotbot.git"
+	},
+	"keywords": [
+		"slack",
+		"bot"
+	],
+	"author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/slothS:\Development\workspaces\slothsoft\Slack\slack-shmotbotsoft/slack-shmotbot/issues"
+	},
+	"homepage": "https://github.com/slothsoft/slack-shmotbot#readme",
+	"engines": {
+		"node": "5.1.1"
+	},
+	"dependencies": {
+		"botkit": "0.2.2",
+		"botkit-storage-mongo": "^1.0.2",
+		"chai": "^4.2.0",
+		"dotenv": "7.0.0",
+		"mocha": "^6.1.4",
+		"mongodb": "^1.4.39"
+	}
+}
