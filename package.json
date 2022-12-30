@@ -29,7 +29,7 @@
 		"botkit-storage-mongo": "^1.0.7",
 		"chai": "^4.2.0",
 		"dotenv": "^8.1.0",
-		"mocha": "^6.2.0",
+		"mocha": "^10.2.0",
 		"mongodb": "^3.3.2"
 	}
 }
